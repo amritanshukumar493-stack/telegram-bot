@@ -113,4 +113,4 @@ async def add(client, message):
         await message.reply("Usage: /add user_id amount")
 
 # ---------- RUN ----------
-print("BOT STARTED 🔥
+print("BOT STARTED 🔥")
